@@ -1,0 +1,64 @@
+/* Header container */
+
+.personalized-container{
+    padding: 3% 15%;
+}
+
+/* Title */
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.h1-title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+/* Navbar */
+.menu{
+    padding: 0 0 4.5rem;
+}
+.brand{
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.item-style{
+    padding: 0 1.5rem;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+/* Header buttons */
+
+.btn-style{
+    margin: 2rem 2rem 1rem 0;
+}
+
+/* Title Image */
+
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+/* Features */
+
+#features{
+    padding: 7% 15%;
+}
+
+.feature-box{
+    text-align: center;
+}
+
+.feature-title{
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
