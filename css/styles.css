@@ -75,3 +75,36 @@
 .icon:hover{
     color: #ff4c68;
 }
+
+/* Testimonials */
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testimonial-title{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.testimonial-image{
+    width: 15%;
+    border-radius: 50%;
+    margin: 2rem 0;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 2rem 2rem 3rem;
+}
