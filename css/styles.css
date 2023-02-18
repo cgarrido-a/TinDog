@@ -10,7 +10,7 @@
     color: #fff;
 }
 
-.h1-title{
+h1{
     font-family: 'Montserrat', sans-serif;
     font-size: 3.5rem;
     line-height: 1.5;
@@ -57,7 +57,7 @@
     text-align: center;
 }
 
-.feature-title{
+h3{
     font-family: "Montserrat", sans-serif;
     font-size: 1.5rem;
     font-weight: 700;
@@ -84,7 +84,7 @@
     color: #fff;
 }
 
-.testimonial-title{
+h2{
     font-family: "Montserrat", sans-serif;
     font-size: 3rem;
     font-weight: 700;
@@ -110,4 +110,15 @@
 
 .carousel-item{
     padding: 7% 15%;
+}
+
+/* Pricing */
+
+#pricing{
+    padding: 6rem;
+    text-align: center;
+}
+
+.pricing-col{    
+    padding: 3%;
 }
