@@ -1,7 +1,7 @@
 /* Header container */
 
 .personalized-container{
-    padding: 3% 15%;
+    padding: 3% 15% 7%;
 }
 
 /* Title */
@@ -43,14 +43,19 @@ h1{
 /* Title Image */
 
 .title-img{
-    width: 60%;
+    width: 50%;
     transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
 }
 
 /* Features */
 
 #features{
     padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
 }
 
 .feature-box{
